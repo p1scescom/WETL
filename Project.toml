@@ -1,0 +1,14 @@
+name = "WaveletETL"
+uuid = "b4495b3a-c2c4-11e8-07c3-795e2048da03"
+authors = ["p1scescom <piscesuoza0317@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+ImageView = "86fae568-95e7-573e-a6b2-d8a6b900c9ef"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+Wavelets = "29a6e085-ba6d-5f35-a997-948ac2efa89a"
